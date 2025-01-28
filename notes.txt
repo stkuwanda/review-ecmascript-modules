@@ -1,0 +1,1 @@
+-Now, as we plan to use ESM (ES6) syntax throughout, we should set the "type": "module" entry in the package.json file.

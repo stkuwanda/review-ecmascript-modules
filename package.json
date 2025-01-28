@@ -1,0 +1,13 @@
+{
+  "name": "review-ecmascript-modules",
+  "version": "0.1.0",
+  "description": "Project implements modules for calculating the area and perimeter of geometric shapes such as circles and rectangles. A utility for rounding is also made available. Purpose of the project is to review NodeJs development using the ES6(ESM) modules.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simbarashe Tanaka Kuwanda",
+  "license": "MIT"
+}
