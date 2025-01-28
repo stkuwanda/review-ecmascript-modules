@@ -1,3 +1,4 @@
+// exporting a default export and a named export
 const PI = Math.PI;
 
 export default function area(radius) {
